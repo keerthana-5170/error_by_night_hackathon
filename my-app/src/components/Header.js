@@ -18,7 +18,10 @@ function Header() {
 				<a href="#precautions">Precautions</a>
 				<a href="#doctor">Doctor</a>
 				<a href="#hand-wash">Hand-wash</a>
-				<a href="chart.html">Stats</a>
+				<a href="stats.html">Stats</a>
+				<a href="chart.html" class="highlight">
+					CoviAnalytics
+				</a>
 			</nav>
 		</header>
 	);

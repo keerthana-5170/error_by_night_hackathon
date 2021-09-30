@@ -113,6 +113,10 @@ header.sticky {
 	font-weight: normal;
 }
 
+.highlight {
+	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
 .home .content .btn {
 	display: inline-block;
 	padding: 0.7rem 3rem;

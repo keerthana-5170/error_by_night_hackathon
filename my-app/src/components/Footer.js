@@ -7,29 +7,23 @@ function Precautions() {
 				<div class="box">
 					<h3>about us</h3>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
-						minima soluta distinctio eaque magni veritatis dicta dolore
-						dignissimos totam quis!
+						Our ultimate aim is to help the health and wellness centres to treat
+						patients more pro-actively and save lives.In this application, we
+						provide chatbot system which would be really helpful for the
+						patients to contact doctors. Thus patients can quarantine themselves
+						and also contact doctors whenever they want. This will definitely
+						reduce the covid rates by avoiding social contacts.
 					</p>
 				</div>
 
 				<div class="box">
-					<h3>locations</h3>
-					<a href="index.html">india</a>
-					<a href="index.html">USA</a>
-					<a href="index.html">france</a>
-					<a href="index.html">russia</a>
-					<a href="index.html">japan</a>
-				</div>
-
-				<div class="box">
 					<h3>quick links</h3>
-					<a href="index.html">home</a>
-					<a href="index.html">prevent</a>
-					<a href="index.html">symptoms</a>
-					<a href="index.html">precautions</a>
-					<a href="index.html">doctor</a>
-					<a href="index.html">hand-wash</a>
+					<a href="#home">home</a>
+					<a href="#prevent">prevent</a>
+					<a href="#symptoms">symptoms</a>
+					<a href="#precautions">precautions</a>
+					<a href="#doctor">doctor</a>
+					<a href="#hand-wash">hand-wash</a>
 				</div>
 
 				<div class="box">
